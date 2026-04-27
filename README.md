@@ -17,7 +17,7 @@ then rename them in the workspace accordingly. (uploading using G =  readtable("
 
 Background subtraction steps can be useful. Uploading a trace of a non-physiological black region, such as in between cells in the line scan, per channel, can help improve SNR. 
 
-**Note if both of your fluorophores are excited well during imaging, this may be unnecessary, but may still reduce artefactual noise**
+**Note if both of your fluorophores are excited well during imaging, this may be unnecessary, but can still reduce artefactual noise**
 
 This program is designed to be User-friendly, with script comments and explanations as you go. Try the mock data sets for a more detailed walkthrough of the program. 
 
