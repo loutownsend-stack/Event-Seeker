@@ -3,7 +3,7 @@
 Event Seeker is a MATLAB script, generated using version R2025b, designed to take time-scaled fluorescence imaging data (ideally from line scans) and highlight significant fluorescence changes as "events".
 
 This specific version is useful in ratiometric determination of exocytotic release events from neurons.
-Using a fluorescent glutamate indicator as a metric for glutamate activity, neurons loaded with FM dyes or pHrodo dyes can be imaged to visualize exocytosis using two channels (green & red). Time-scaled fluorescence profiles from line scans can be copied or uploaded as arrays in the following format
+Using a fluorescent glutamate indicator as a metric for glutamate activity, neurons loaded with FM dyes or pHrodo dyes can be imaged to visualize exocytosis using two collection channels (green & red). Time-scaled fluorescence profiles from line scans can be copied or uploaded as arrays in the following format
 
 	col    1 2 3 4 5 6 7 8...
 	X(time) Y Y Y Y Y Y Y
